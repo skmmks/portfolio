@@ -345,6 +345,7 @@ header.masthead .intro-text .intro-heading {
 }
 .portfolio-modal {
   padding-right: 0px !important;
+  background-color: black;
 }
 
 .portfolio-modal .modal-dialog {
@@ -355,8 +356,11 @@ header.masthead .intro-text .intro-heading {
 .portfolio-modal .modal-content {
   padding: 100px 0;
   text-align: center;
+  background-color: #000000;
 }
-
+.modal-body {
+  background-color: #ffffff;
+}
 .portfolio-modal .modal-content h2 {
   font-size: 3em;
   margin-bottom: 15px;
@@ -409,7 +413,7 @@ header.masthead .intro-text .intro-heading {
   /* IE 9 */
   -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
-  background-color: #212529;
+  background-color: #ffffff;
 }
 
 .portfolio-modal .close-modal .lr .rl {
@@ -420,7 +424,7 @@ header.masthead .intro-text .intro-heading {
   /* IE 9 */
   -webkit-transform: rotate(90deg);
   transform: rotate(90deg);
-  background-color: #212529;
+  background-color: #ffffff;
 }
 
 .timeline {
