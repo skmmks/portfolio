@@ -3,4 +3,3 @@
 .DS_Store
 email_config.php
 node_modules
-/phpmailer
