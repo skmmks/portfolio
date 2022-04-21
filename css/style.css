@@ -1877,3 +1877,14 @@ width: 100%;}
 	color: #565656;
 }
 
+.blue {
+	color: blue;
+}
+
+.justify-center {
+	justify-content: center;
+}
+
+.flex {
+	display: flex;
+}
