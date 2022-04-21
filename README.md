@@ -1,2 +1,1 @@
-# portfolio
-My web developer portfolio
+#Daniel Hong Dev Portfolio
